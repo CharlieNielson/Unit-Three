@@ -2,7 +2,7 @@
 using namespace std;
 
 
-enum Rating {G, PG, PG13, R}
+enum Rating {G, PG, PG13, R};//Sorry, I forgot a semicolin here the first time.
 
 struct Movie {
     string movieTitle;
